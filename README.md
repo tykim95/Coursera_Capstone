@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied Data Science Capstone Week 1 - TY Kim
+Applied Data Science Capstone - TY Kim
